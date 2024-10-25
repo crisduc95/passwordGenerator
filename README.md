@@ -8,12 +8,11 @@ Este script genera contraseñas seguras de longitud variable, asegurando que inc
 
 ## Requisitos
 
-- **Python 3.x**
-- Librería **colorama** para colorear la salida en la consola. Para instalarla, ejecuta:
 
-  ```bash
+
   pip install colorama
-  ```
+  pip install argparse
+
 
 ## Uso
 
@@ -24,9 +23,9 @@ Puedes especificar la longitud de la contraseña con el argumento `--l`. Este va
 1. Clona el repositorio o descarga el archivo.
 2. Abre una terminal en el directorio donde se encuentra el archivo y ejecuta el siguiente comando:
 
-   ```bash
+
    python nombre_del_archivo.py --l 12
-   ```
+
 
    En este ejemplo, se generará una contraseña de 12 caracteres.
 
