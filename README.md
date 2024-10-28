@@ -1,6 +1,3 @@
-# passwordGenerator
-Claro, aquí tienes el README en el formato adecuado con los caracteres de Markdown necesarios:
-
 ```markdown
 # Generador de Contraseñas Seguras
 
