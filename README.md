@@ -14,9 +14,9 @@ Puedes especificar la longitud de la contraseña con el argumento `--l`. Este va
 
 ### Ejemplo de Uso
 
-´´´bash
-   python nombre_del_archivo.py --l 12
-  ´´´
+  ```bash
+python nombre_del_archivo.py --l 12
+  ```
 
 
    En este ejemplo, se generará una contraseña de 12 caracteres.
