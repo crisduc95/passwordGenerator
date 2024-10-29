@@ -1,11 +1,8 @@
-```markdown
-# Generador de Contraseñas Seguras
+## Generador de Contraseñas Seguras
 
 Este script genera contraseñas seguras de longitud variable, asegurando que incluyan al menos una letra minúscula, una letra mayúscula, un número y un símbolo. Utiliza Python y la librería `colorama` para mejorar la legibilidad de los resultados en la consola.
 
 ## Requisitos
-
-
 
   pip install colorama
   pip install argparse
@@ -17,11 +14,9 @@ Puedes especificar la longitud de la contraseña con el argumento `--l`. Este va
 
 ### Ejemplo de Uso
 
-1. Clona el repositorio o descarga el archivo.
-2. Abre una terminal en el directorio donde se encuentra el archivo y ejecuta el siguiente comando:
-
-
+´´´bash
    python nombre_del_archivo.py --l 12
+  ´´´
 
 
    En este ejemplo, se generará una contraseña de 12 caracteres.
